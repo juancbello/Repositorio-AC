@@ -1,0 +1,2 @@
+Este es el archivo de texto correspondiente a la instruccion en la pagina 92 
+de la presentacion de git para las clases 4 y 5
